@@ -1,0 +1,148 @@
+header{
+    background-image: url("https://johnnysbagelanddeli.com/wp-content/uploads/2022/12/Happy-New-Year-1.png");
+    height: 600px;
+    width: 100%;
+}
+ul{
+
+    float: right;
+    margin-right: 100px;
+
+}
+li{
+    display: inline;
+    color: white;
+    margin: 10px;
+    font-size: 25px;
+}
+.logo{
+  margin-left: 100px;
+} 
+ 
+
+.part1{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.section1{
+    /* display: inline-block;
+    margin-top: 100px;
+    margin-left: 10px; */
+    
+}
+.section2{
+    display: inline-block;
+    width: 50%;
+    /* margin-left: 30px; */
+    text-align: center;
+}
+.btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .section3{
+    /* display: inline-block; */
+  }
+  .section4{
+    background-color: red;
+    color: white;
+  }
+  .sub1{
+    margin-left: 150px;
+    font-size: 32px;
+    text-align: center;
+  }
+  .section5{
+    margin-left: 50%;
+    margin-top: 20px;
+    
+  }
+  .section6{
+    margin-left: 42%;
+    margin-top: 7%;
+    font-size: 25px;
+  }
+  .section7{
+    margin-top: 40px;
+  }
+  .image3{
+    margin-left: 20px;
+
+  }
+  .image4{
+    margin-left: 20px;
+  }
+  .image5{
+    margin-left: 20px;
+    
+  }
+  .image6{
+    margin-left: 20px;
+    
+  }
+  .section8{
+    margin-top: 80px;
+    margin-left: 0.5px;
+    background-image: url(https://lh3.googleusercontent.com/boet7V1zA9uxE0OT_0hYZtazScjhNe0EvIz0rC5yDodo140p-ccRkAJ-MlTNPxvGae8G4JJnJQjKEk7-Sm9z1S_-aJE=h450-rw);
+    height: 400px;
+    width: 100%;
+    text-align: center;
+
+  }
+  .sub2{
+    padding-top: 50px;
+    color: rgb(39, 240, 13);
+    font-size: 25px;
+  }
+  
+  .section9{
+    margin-left: 40%;
+    font-size: 35px;
+  }
+  .section10{
+    background-color: darkmagenta;
+    padding: 10px;
+    display: flex;
+    padding-left: 50px;
+  }
+  .test{
+    margin-left: 120px;
+    text-align: center;
+  }
+hr.solid{
+    border-top: 5px solid red;
+    margin-top: 70px;
+}
+.foot{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+
+}  
+a{
+    color: red;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+.anchor{
+    border-right: 3px solid red;
+    padding-right: 10px;
+}
+.pass{
+    color: red;
+    font-size: 20px;
+}
+.footer{
+    color: red;
+    font-size: 40px;
+}
